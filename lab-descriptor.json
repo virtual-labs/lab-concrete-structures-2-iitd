@@ -6,7 +6,6 @@
   },
   "lab": "Concrete Structures II",
   "lab_display_name": "Concrete Structures-II",
-  "deployLab": true,
   "phase": "3-ext",
   "collegeName": "IITD",
   "baseUrl": "cs2-iitd.vlabs.ac.in",
