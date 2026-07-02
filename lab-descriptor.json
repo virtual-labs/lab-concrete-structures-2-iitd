@@ -4,8 +4,8 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering",
     "code": "CIVIL"
   },
-  "lab": "Concrete Structures II Lab",
-  "lab_display_name": "Concrete Structures-II Lab",
+  "lab": "Concrete Structures II",
+  "lab_display_name": "Concrete Structures-II",
   "deployLab": true,
   "phase": "3-ext",
   "collegeName": "IITD",
